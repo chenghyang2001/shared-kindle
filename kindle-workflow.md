@@ -11,9 +11,8 @@
 ```
 1. 儲存解答到 answer/
 2. 製作 EPUB（見 epub-techniques.md）
-3. 上傳 EPUB 到 Google Drive
-4. carry：把 answer/ 複製到下一課 starter/
-5. git commit + push
+3. carry：把 answer/ 複製到下一課 starter/
+4. git commit + push
 ```
 
 carry 指令格式：
